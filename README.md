@@ -44,7 +44,7 @@ export LANGFUSE_HOST="https://cloud.langfuse.com"
 ### 4. Run the Agent
 
 ```bash
-python adk_extracted.py
+python adk.py
 ```
 
 ## How It Works
